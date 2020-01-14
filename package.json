@@ -1,0 +1,19 @@
+{
+  "name": "webpack-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Nicholas de Waal <nick.a.dewaal@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
